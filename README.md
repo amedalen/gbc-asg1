@@ -16,3 +16,7 @@ Monday
 
 Wednesday
 14:00 - Math1126 
+
+
+GBC email: ahmed.abouelenein@georgebrown.ca
+Your personal repo URL: [Personal Repo for Home Assignment 1](https://amedalen.github.io/gbc-asg1/)
