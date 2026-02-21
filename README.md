@@ -7,6 +7,10 @@ Assignment 1
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [Comp1238](comp1238.md)
 - [Repo home assignment](https://github.com/amedalen/gbc-asg1) 
+
+
+
+
 Monday
 13:00 - COMP1238 - Data Mgmnt
 
